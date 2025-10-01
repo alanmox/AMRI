@@ -1,0 +1,32 @@
+.navigation{
+    background: rgb(137, 189, 17);
+    height: 100px;
+    width: 100vw;
+    justify-content: space-between;
+    display: flex;
+
+    .left{
+        background: rgb(24, 63, 14);
+        h1{
+            color: white;
+        text-align: center;
+    }
+    }
+
+    .right{
+        ul{
+            color: rgb(79, 194, 34);
+            text-align: center;
+        justify-content: center;
+        display: flex;
+
+        li{
+            
+            margin: 10px;
+            padding: 15px;
+        }
+        }
+
+        
+    }
+}

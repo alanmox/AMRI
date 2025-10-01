@@ -1,0 +1,17 @@
+.container{
+    background: gray;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 250px;
+
+    .header{
+        h1{
+            color: white;
+        }
+    }
+
+    .body{
+        color: rgb(20, 36, 51);
+        background: greenyellow;
+    }
+}
